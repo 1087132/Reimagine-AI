@@ -1,3 +1,5 @@
+
+
 # Reimagine-AI
 ReImagine AI is a hybrid AI-powered sustainability platform designed to transform everyday unwanted objects into practical, creative and valuable products.What if the things we throw away today could become the innovations we use tomorrow?  Every day, people discard objects that still possess tremendous potential.
 
@@ -12,11 +14,11 @@ npm run dev
 **Don’t throw it away. ReImagine it.**
 
 Web/Chrome entry. ReImagine AI helps households turn objects they already own into projects they can finish. It brings material identification, design options, and a workshop guide into a single flow.
-
+<img width="1536" height="1024" alt="ReImagine AI_ Upcycled Transformations-1" src="https://github.com/user-attachments/assets/b79c396f-fcb7-4881-8db4-b9c2d0ff48b3" />
 ## Inspiration and problem
 
 A move, cleanup, or broken piece of furniture can leave someone with useful material and no clear next step. They need an idea suited to their object, budget, experience, tools, and available time. General inspiration photos rarely establish whether the project works with the materials at hand.
-
+<img width="1536" height="1024" alt="ReImagine AI Wooden Pallet Scanner Mockup-6" src="https://github.com/user-attachments/assets/ccd2f915-2c56-4199-a852-b230159c4fe2" />
 ReImagine AI starts with the item itself. Scan a photograph, review what can be recovered, compare several options, then take an editable checklist and a PDF to the workbench. Save scraps and spare items in the material inventory. Rescue Mode uses several impending discards and recommends a combination that fits the user’s constraints.
 
 ## Why hybrid inference
