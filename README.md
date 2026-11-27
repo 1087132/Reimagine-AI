@@ -39,4 +39,4 @@ The intended audience includes renters, students, households, and hobbyists who 
 - User-entered weights provide an initial way to track impact. A later release could support transparent, region-specific factors where source and quantity are available.
 - A future release can test Kotlin and SwiftUI clients against the same user-scoped schema, then add native inference with separate device validation.
 
-[Devpost copy](devpost.md) · [Video script](demo-script.md) · [Submission checklist](submission-checklist.md)
+
