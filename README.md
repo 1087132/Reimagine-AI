@@ -6,6 +6,7 @@ Extract the folder and change the file path or run a terminal from the folder
 Run it from the extracted ReImagine-AI folder:
 
 npm ci
+
 npm run dev
 
 **Don’t throw it away. ReImagine it.**
