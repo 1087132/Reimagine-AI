@@ -4,6 +4,7 @@ ReImagine AI is a hybrid AI-powered sustainability platform designed to transfor
 ## How to run the file 
 Extract the folder and change the file path or run a terminal from the folder 
 Run it from the extracted ReImagine-AI folder:
+
 npm ci
 npm run dev
 
