@@ -22,13 +22,7 @@ The app uses the Firebase Web SDK for AI Logic, App Check, Authentication, Fires
 
 The intended audience includes renters, students, households, and hobbyists who want a project shaped by what they have. The inventory and budget planner favor using materials on hand. Impact views track completed projects and user-recorded weights or savings. Costs, duration, and dimensions supplied by AI remain estimates. No emissions reduction is claimed.
 
-## Judge instructions
 
-1. Use the submitted Website link in desktop Chrome. Guest mode lets you open an explicitly labeled example, inspect its project guide, test PDF export, and explore the local workshop without creating an account.
-2. To test live AI, use a photo of a safe, ordinary item you have permission to use. In **Settings**, choose **Private** on eligible desktop Chrome with its model ready, or enable cloud processing and choose **Hybrid**. Open **Object Scanner**, upload a JPEG or PNG, then analyze.
-3. Select a transformation and review its guide. Start in consented Hybrid mode for a project you want to visualize with an enabled cloud image model. Confirm the optional request and drag or keyboard-adjust the divider in the comparison.
-4. Open **AI Transparency** to verify the actual inference source. Go offline and revisit saved work after the production app has cached once online. For local AI offline, use a ready on-device model.
-5. To build the public repository locally, use `npm ci` and `npm run dev`. Use your own development Firebase project for real cloud AI. The project owner configures judge access and App Check for the submitted hosted URL. [Project README](../../README.md) · [Firebase setup](../firebase-setup.md)
 
 ## Current limitations and roadmap
 
